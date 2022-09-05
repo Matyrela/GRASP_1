@@ -25,6 +25,8 @@ namespace Full_GRASP_And_SOLID.Library
             this.steps.Remove(step);
         }
 
+        //Principio Expert
+        
         public double GetProductionCost(){
             double insumos = 0;
             double equip = 0;
